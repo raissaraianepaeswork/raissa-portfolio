@@ -1,5 +1,4 @@
-# raissa-portfolio
-Modern responsive portfolio built with HTML, CSS and JavaScript.
+
 # 💻 Raissa Portfolio
 
 Meu portfólio pessoal desenvolvido para apresentar meus projetos,
