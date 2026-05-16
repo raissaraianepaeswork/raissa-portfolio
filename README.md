@@ -50,5 +50,4 @@ Link do projeto online:
 ## 📬 Contato
 
 - LinkedIn: [ https://www.linkedin.com/in/raissa-raiane-paes-gomes-a81991405/ ]
-- WhatsApp: [https://api.whatsapp.com/send/?phone=5516997736924&text=Ol%C3%A1+Raissa%2C+vi+seu+portf%C3%B3lio+e+quero+conversar.&type=phone_number&app_absent=0
-- ]
+- WhatsApp: [https://api.whatsapp.com/send/?phone=5516997736924&text=Ol%C3%A1+Raissa%2C+vi+seu+portf%C3%B3lio+e+quero+conversar.&type=phone_number&app_absent=0]
